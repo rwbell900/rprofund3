@@ -1,0 +1,78 @@
+Bell Innovative Technology rProFund
+
+OVERVIEW
+rProFund will use blockchain technologies to create a more efficient way to identify, fund and track renewable projects.  
+It will combine an HTML user interface with smart contracts to produce a listing and tracking mechanism that will make 
+all pertinent data about a renewable project transparently available by memorializing it on the blockchain.  Special 
+attention will be paid describing and managing carbon credits associated with a project, including type and status of 
+those credits.
+
+DETAIL
+There are many mechanisms to fund renewable projects.
+1.	Selling Verified, Registered Carbon Credits
+2.	Private Lending/Venture Capital
+3.	Non-Profit fund raising
+4.	Grants – including private, state government, and federal government
+5.           Sale of verified, registered, however not yet issued or offset carbon credits
+
+Whatever the method of funding, we will be providing a step-by-step system to identify projects, identify carbon credit 
+creation and registration for the project, identify grants that may be available and estimated timing on those grants, 
+private sources including debt and grant, and carbon credit sale sources including NFT encapsulation, with Token 
+creation when the credits are actually issued via FlowCarbon’s Carbon offset Tokens. FlowCarbon will also help us in 
+registering and verifying all existing Carbon Credits available.  We will pursue all funding sources that exist, most likely in 
+one of the categories listed above.
+
+Specific data will be maintained through each stage of the process, including:
+       Project identification, registration and application information:
+a.	Project Name
+b.	Project Type/Category
+c.	Project Description
+d.	Project plan including a detailed budget and construction phases and/or milestones.
+e.	Project expenditure verification – as money is transferred to the project, verify how the money was 
+spent
+f.	Existing Carbon Credits information:
+i.	Type
+ii.	Serial number
+iii.	Registration and verification organization
+iv.	Project type within carbon credit industry
+v.	Credits verified and registered before issuance.
+vi.	Credits issued
+vii.	Credits retired
+viii.	Any other identifying information needed to verify with the registration organization
+ix.	Value tracking of all Credits identified.
+g.	Potential Carbon Credit creation:
+i.	Types of credits identified
+ii.	Current value of each type
+iii.	Number of credits that can be created of each type
+iv.	Demand ranking of each type of carbon credit
+h.	Funding plan and schedule from each funding source
+i.	Each expenditure documented by category and what milestone it was applied to
+ii.	Each milestone completed and record of what funding sources paid for each budget item 
+identified
+
+Additional functionality provided
+1.	On the blockchain for each project there will be a pointer to off-chain data stored in distributed data storage 
+that references the above list of data.
+2.	Reference to a wallet that contains NFT wrapping credits that are approved, and verified so that they can be sold 
+and monetized, those NFT tokens will automatically convert to FlowCarbon tokens containing the Fungible 
+carbon credits when the Credits have been issued and the actual Carbon has been offset successfully.
+3.	All Carbon credit will be tracked and tied to the actual project that created them verifying the actual offsets.
+4.	Reference to all Audit/Verification Inspection events.
+5.	An online Marketplace will evolve to the point that potential projects can apply, and through the process 
+produce more Carbon Credits that will create NFT’s of the pre-issued credits.  Those credits will then 
+automatically turn into FlowCcarbon tokens.  Online transactions will be available so that participants can 
+purchase, sell and trade their Carbon NFTs and Tokens directly from the website.
+6.	A viewing mechanism that pulls the references from the blockchain and allows total transparency to all of the 
+above listed information will be developed and evolve over time.
+7.	We will add the ability to mark carbon credits as issued, whether retired or not.  These issued credits will 
+represent actual, verified offsets that have, in fact, occurred and are responsible for actual project funding.  That 
+makes a difference one project at a time.
+
+All of the above will give a verified view of actual events associated with each renewable project through its entire life 
+cycle, and the data will be stored on the blockchain and in distributed storage.  The rProFund project will bring 
+transparency to the funding and results of renewable projects by verifying that funds from the original sale of carbon 
+credits was actually used for its intended purpose of achieving a ton of carbon offset, and delivering the ability for grant 
+issuers and private funders to view this same validated status and verification data through human friendly user 
+interfaces.  Everyday people will be able to participate from their mobile devices and also feel that they are making a 
+difference.  All Carbon credits will be capable of being burned to offset for everyone involved in the whole process, 
+including individuals offsetting their own carbon footprint.
