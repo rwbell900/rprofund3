@@ -1,0 +1,29 @@
+{
+  {
+  "description": "Carbon Credit for LetsGo Green, LLC", 
+  "image": "ipfs://QmaDf66ugZkA1L2nUhKY64XgpvbbnGkTN5xPgoBXRxKHZW",
+  "attributes": [
+      {
+        "trait_type": "Reg_org", 
+        "value": "Verra"
+      }, 
+      {
+        "trait_type": "Proj_name", 
+        "value": "Factory Location 2"
+      }, 
+      {
+        "trait_type": "Credit_type", 
+        "value": "Fuel sub"
+      }, 
+      {
+        "trait_type": "Serial_Number", 
+        "value": "152841"
+      }, 
+      {
+        "display_type": "date", 
+        "trait_type": "Approve_date", 
+        "value": 1546360800
+      }, 
+    ],
+  }
+  
